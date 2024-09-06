@@ -93,4 +93,4 @@ Backend follows the MVC Pattern and the front end follows the Component-Based Ar
 
 You can Follow the steps to understand and run this project.
 
-### Thank you for this opportunity :).
+### Thank you for this opportunity :)
