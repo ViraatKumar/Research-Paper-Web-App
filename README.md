@@ -87,7 +87,7 @@ Backend follows the MVC Pattern and the front end follows the Component-Based Ar
 |   |-- package.json        # Frontend dependencies
 |   |-- .gitignore          # Gitignore for frontend
 |
-|-- .gitignore              # Root gitignore (optional, combines backend/frontend rules)
+|-- .gitignore              # Root gitignore
 
 ```
 
